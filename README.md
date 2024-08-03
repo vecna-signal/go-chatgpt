@@ -15,7 +15,7 @@ Go-ChatGPT is an open-source GoLang client for ChatGPT, a large language model t
 You can install ChatGPT-Go using Go modules:
 
 ```bash
-go get github.com/ayush6624/go-chatgpt
+go get github.com/vecna-signal/go-chatgpt
 ```
 
 ## Getting Started
